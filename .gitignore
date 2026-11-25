@@ -5,3 +5,6 @@ core.*
 vgcore.*
 *.o
 .DS_Store
+.build/
+.obsidian/
+attack/*.bin
